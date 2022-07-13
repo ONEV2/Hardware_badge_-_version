@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name disc)(type KiCad)(uri C:/Users/prakh/Documents/Hardware_badge/lib/disc.pretty)(options "")(descr ""))
+  (lib (name diode_smd)(type KiCad)(uri C:/Users/prakh/Documents/Hardware_badge/lib/diode_smd)(options "")(descr ""))
+  (lib (name transistor_smd)(type KiCad)(uri C:/Users/prakh/Documents/Hardware_badge/lib/transistor_smd)(options "")(descr ""))
+)

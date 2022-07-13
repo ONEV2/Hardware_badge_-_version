@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ESP32-WROOM-32D)(type Legacy)(uri C:/Users/prakh/Documents/Hardware_badge/ESP32_smd/ESP32-WROOM-32D.lib)(options "")(descr ""))
+  (lib (name smd_diode)(type Legacy)(uri C:/Users/prakh/Documents/Hardware_badge/lib/diode_smd/smd_diode.lib)(options "")(descr ""))
+  (lib (name smd_transistor)(type Legacy)(uri C:/Users/prakh/Documents/Hardware_badge/lib/transistor_smd/MMBT3904.lib)(options "")(descr ""))
+)
